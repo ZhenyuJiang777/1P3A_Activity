@@ -1,4 +1,4 @@
-# Replace all the IP address in /activity/store/actions/activity.js file and /activity/store/reducers/user.js file  into your own IP address
+Replace all the IP address in /activity/store/actions/activity.js file and /activity/store/reducers/user.js file  into your own IP address
 
 ## Frontend: 
 React-Native
